@@ -1,0 +1,983 @@
+[
+  {
+    "id": 1,
+    "year": 2026,
+    "authors": "Rekik, F., Moussaoui, A., Bagnato, A.",
+    "title": "Towards Privacy and Security Compliance in Food and Nutrition Data Lakes",
+    "venue": "ACM SIGAda Ada Letters ",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3821489.3821510",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 2,
+    "year": 2026,
+    "authors": "Bagnato, A., Cadavid, J., Moussaoui, A.",
+    "title": "A Model-Based Cloud-Edge-Fog Applications Design Walkthrough with the MYRTUS Project's Modelio TOSCA Designer",
+    "venue": "ACM SIGAda Ada Letters ",
+    "link": "https://dl.acm.org/doi/10.1145/3821489.3821507",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 3,
+    "year": 2026,
+    "authors": "Bagnato, A. (ed.)",
+    "title": "Workshop on Challenges and New Approaches for Dependable and Cyber-Physical System Engineering (DeCPS 2025)",
+    "venue": "ACM SIGAda Ada Letters (proceedings of the DeCPS 2025 workshop, held 13 June 2025, Paris)",
+    "link": "https://dl.acm.org/doi/10.1145/3821489.3821504",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 4,
+    "year": 2025,
+    "authors": "Bagnato, A., Cadavid, J.",
+    "title": "Towards Model-Based System Engineering for Cyber-physical Systems in the MYRTUS Project",
+    "venue": "ACM SIGAda Ada Letters, n° 44",
+    "link": "https://dl.acm.org/doi/10.1145/3742939.3742950",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 5,
+    "year": 2025,
+    "authors": "Bagnato, A., Said, B.",
+    "title": "AI Augmented Requirements Engineering in the AIDOaRT Project: NLP Techniques and Language Models to Encode Requirements Text Semantically for the Railway Industry",
+    "venue": "ACM SIGAda Ada Letters, 44(2), p. 56–60",
+    "link": "https://dl.acm.org/doi/10.1145/3742939.3742948",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 6,
+    "year": 2025,
+    "authors": "Mackay, A., Bagnato, A., Luz, C.H., Pastrone, C., Sassanelli, C., Aouada, D., Macedo, H.D., Völp, M., Henshaw, M., Györffi, M., Pop, P., et al.",
+    "title": "HiPEAC Vision 2025: High Performance, Edge and Cloud Computing",
+    "venue": "Zenodo / HiPEAC (report)",
+    "link": "https://orbilu.uni.lu/bitstream/10993/67113/1/public_24_11_hipeac-vision-2025-6FIznYRV.pdf",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 7,
+    "year": 2025,
+    "authors": "Akerkar, R., Aouada, D., Bagnato, A., Györffi, M., Henshaw, M., Mackay, A., Pastrone, C., Pop, P., Sassanelli, C., Völp, M.",
+    "title": "Extended Recommendations for Advances on Cyber-Physical Systems: A white paper in relation to the HiPEAC Vision 2025",
+    "venue": "Zenodo",
+    "link": "https://orbit.dtu.dk/en/publications/extended-recommendations-for-advances-on-cyber-physical-systems-a/",
+    "linkLabel": "Institutional repository entry"
+  },
+  {
+    "id": 8,
+    "year": 2025,
+    "authors": "Robinson, C., Akerkar, R., Aouada, D., Bagnato, A., Györffi, M., Henshaw, M., Larsen, P.G., Luz, C.H., Macedo, H.D., Mackay, A., et al.",
+    "title": "Bridging the Stakeholder Domains that Produce Cyber-physical Systems: A white paper in relation to the HiPEAC Vision 2025",
+    "venue": "Zenodo",
+    "link": "https://orbit.dtu.dk/en/publications/bridging-the-stakeholder-domains-that-produce-cyber-physical-syst/",
+    "linkLabel": "Institutional repository entry"
+  },
+  {
+    "id": 9,
+    "year": 2024,
+    "authors": "Karhapää, P., Behutiye, W., Seppänen, P., Rodríguez, P., Oivo, M., Franch, X., Martínez-Fernández, S., López, L., Choraś, M., Bagnato, A., Aaramaa, S., Partanen, J.",
+    "title": "Evidence-Based Quality-Aware Agile Software Development Process: Design and Evaluation",
+    "venue": "IEEE Access, vol. 12, pp. 86487–86512",
+    "link": "https://doi.org/10.1109/ACCESS.2024.3414614",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 10,
+    "year": 2024,
+    "authors": "Palumbo, F., Zedda, M.K., Fanni, T., Bagnato, A., Castello, L., Castrillón, J., Del Ponte, R., Deng, Y., Driessen, B., Fadda, M., Halna du Fretay, T., de Oliveira Filho, J., Rao, V., Regazzoni, F., Rodríguez, A., Schranz, M., Sedda, G.",
+    "title": "MYRTUS: Multi-layer 360° dYnamic orchestration and interopeRable design environmenT for compute-continUum Systems",
+    "venue": "CF (Companion) 2024",
+    "link": "https://dl.acm.org/doi/10.1145/3637543.3654618",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 11,
+    "year": 2024,
+    "authors": "Moussaoui, A., Bagnato, A.",
+    "title": "The MORPHEMIC Project on the Data Intensive E-Brain Science Case Study",
+    "venue": "ACM SIGAda Ada Letters",
+    "link": "https://dlnext.acm.org/doi/epdf/10.1145/3672359.3672371",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 12,
+    "year": 2023,
+    "authors": "Bagnato, A., Krasnodebska, J.",
+    "title": "MORPHEMIC – Optimization of the Deployment and Life-cycle Management of Data-intensive Applications in the Cloud Computing Continuum",
+    "venue": "ACM SIGAda Ada Letters",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3591335.3591350",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 13,
+    "year": 2023,
+    "authors": "Bagnato, A., Cicchetti, A., Berardinelli, L., Brunelière, H., Gómez, A., Sadovykh, A., Eramo, R.",
+    "title": "AI-augmented Model-Based Capabilities in the AIDOaRt Project: Continuous Development of Cyber-Physical Systems",
+    "venue": "ACM SIGAda Ada Letters",
+    "link": "https://dl.acm.org/doi/10.1145/3591335.3591349",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 14,
+    "year": 2023,
+    "authors": "Sadovykh, A., Truscan, D., Mallouli, W., Cavalli, A.R., Seceleanu, C., Bagnato, A.",
+    "title": "CyberSecurity in a DevOps Environment: From Requirements to Monitoring",
+    "venue": "Springer (book)",
+    "link": "https://link.springer.com/book/10.1007/978-3-031-42212-6",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 15,
+    "year": 2022,
+    "authors": "Brunelière, H., Muttillo, V., Eramo, R., Berardinelli, L., Gómez, A., Bagnato, A., Sadovykh, A., Cicchetti, A.",
+    "title": "AIDOaRt: AI-augmented Automation for DevOps, a model-based framework for continuous development in Cyber-Physical Systems",
+    "venue": "Microprocessors and Microsystems, vol. 94, art. 104672",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0141933122002022",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 16,
+    "year": 2022,
+    "authors": "Abherve, A., Said, B., Bagnato, A.",
+    "title": "A Methodology for Modeling Digital Transformation of Organizations to Integrate Automated Decision-Making Tools based on Artificial Intelligence",
+    "venue": "RCIS Workshops 2022",
+    "link": "https://ceur-ws.org/Vol-3144/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 17,
+    "year": 2022,
+    "authors": "Bagnato, A., López, L.",
+    "title": "Preface: RCIS 2022 Research Projects Track",
+    "venue": "RCIS Workshops 2022",
+    "link": "https://ceur-ws.org/Vol-3144/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 18,
+    "year": 2022,
+    "authors": "Moussaoui, A., Bagnato, A., Brosse, E., Krasnodebska, J., Skrzypek, P.",
+    "title": "The MORPHEMIC Project and its Unified User Interface",
+    "venue": "RCIS Workshops 2022",
+    "link": "https://ceur-ws.org/Vol-3144/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 19,
+    "year": 2022,
+    "authors": "Said, B., Sadovykh, A., Brosse, E., Bagnato, A.",
+    "title": "Towards AIDOaRt Objectives via Joint Model-based Architectural Effort",
+    "venue": "RCIS Workshops 2022",
+    "link": "https://ceur-ws.org/Vol-3144/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 20,
+    "year": 2022,
+    "authors": "Araújo, J., de la Vara, J.L., Brito, I.S., Condori-Fernández, N., Duboc, L., Giachetti, G., Marín, B., Serral, E., Bagnato, A., López, L. (eds.)",
+    "title": "Joint Proceedings of RCIS 2022 Workshops and Research Projects Track co-located with RCIS 2022, Barcelona, Spain, May 17–20, 2022",
+    "venue": "CEUR Workshop Proceedings, vol. 3144",
+    "link": "https://ceur-ws.org/Vol-3144/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 21,
+    "year": 2022,
+    "authors": "Ivanov, V., Sadovykh, A., Naumchev, A., Bagnato, A., Yakovlev, K.",
+    "title": "Extracting Software Requirements from Unstructured Documents",
+    "venue": "CoRR abs/2202.02135",
+    "link": "https://arxiv.org/abs/2202.02135",
+    "linkLabel": "Preprint PDF (arXiv)"
+  },
+  {
+    "id": 22,
+    "year": 2021,
+    "authors": "Ivanov, V., Sadovykh, A., Naumchev, A., Bagnato, A., Yakovlev, K.",
+    "title": "Extracting Software Requirements from Unstructured Documents",
+    "venue": "AIST (Supplement) 2021, pp. 17–29",
+    "link": "https://arxiv.org/abs/2202.02135",
+    "linkLabel": "Preprint PDF (arXiv, same work)"
+  },
+  {
+    "id": 23,
+    "year": 2021,
+    "authors": "Sadovykh, A., Widforss, G., Truscan, D., Enoiu, E.P., Mallouli, W., Iglesias, R., Bagnato, A., Hendel, O.",
+    "title": "VeriDevOps: Automated Protection and Prevention to Meet Security Requirements in DevOps",
+    "venue": "DATE 2021, pp. 1330–1333",
+    "link": "https://ieeexplore.ieee.org/document/9474185",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 24,
+    "year": 2021,
+    "authors": "Eramo, R., Muttillo, V., Berardinelli, L., Brunelière, H., Gómez, A., Bagnato, A., Sadovykh, A., Cicchetti, A.",
+    "title": "AIDOaRt: AI-augmented Automation for DevOps, a Model-based Framework for Continuous Development in Cyber-Physical Systems",
+    "venue": "DSD 2021, pp. 303–310",
+    "link": "https://ieeexplore.ieee.org/document/9556443",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 25,
+    "year": 2021,
+    "authors": "López, L., Bagnato, A., Ahberve, A., Franch, X.",
+    "title": "QFL: Data-Driven Feedback Loop to Manage Quality in Agile Development",
+    "venue": "ICSE-SEIS 2021, pp. 58–66",
+    "link": "https://arxiv.org/abs/2102.05920",
+    "linkLabel": "Preprint PDF (arXiv, same work)"
+  },
+  {
+    "id": 26,
+    "year": 2021,
+    "authors": "Ram, P., Rodríguez, P., Abherve, A., Bagnato, A., Oivo, M.",
+    "title": "Capitalizing on Developer-Tester Communication – A Case Study",
+    "venue": "PROFES 2021, pp. 249–264",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-91452-3_17",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 27,
+    "year": 2021,
+    "authors": "López, L., Bagnato, A., Ahberve, A., Franch, X.",
+    "title": "QFL: Data-Driven Feedback Loop to Manage Quality in Agile Development",
+    "venue": "CoRR abs/2102.05920",
+    "link": "https://arxiv.org/abs/2102.05920",
+    "linkLabel": "Preprint PDF (arXiv)"
+  },
+  {
+    "id": 28,
+    "year": 2021,
+    "authors": "Chaabouni, K., Bagnato, A.",
+    "title": "Data Pipelines: Modeling and Evaluation of Models",
+    "venue": "Chapter in: Big Data in Bioeconomy: Results from the European DataBio Project, Springer, p. 113–126",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-71069-9_9",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 29,
+    "year": 2021,
+    "authors": "Robinson, C., Bagnato, A., Pastrone, C., Weyer, T., Popov, P., Macedo, H.D., Sassanelli, C., Larsen, P.G., Luz, C.H., Henshaw, M., et al.",
+    "title": "Bridging the stakeholder communities that produce cyber-physical systems",
+    "venue": "HiPEAC Vision, n° 12, p. 20–29",
+    "link": "https://hal.science/hal-03359519v1",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 30,
+    "year": 2020,
+    "authors": "Ram, P., Rodríguez, P., Oivo, M., Martínez-Fernández, S., Bagnato, A., Choras, M., Kozik, R., Aaramaa, S., Ahola, M.",
+    "title": "Actionable Software Metrics: An Industrial Perspective",
+    "venue": "EASE 2020, pp. 240–249",
+    "link": "https://dl.acm.org/doi/10.1145/3383219.3383244",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 31,
+    "year": 2020,
+    "authors": "Bagnato, A., Abhervé, A., Martínez-Fernández, S., Franch, X.",
+    "title": "Challenges and Benefits from Using Software Analytics in Softeam",
+    "venue": "ICSE (Workshops) 2020, p. 512",
+    "link": "https://dl.acm.org/doi/10.1145/3387940.3391537",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 32,
+    "year": 2020,
+    "authors": "Mallouli, W., Cavalli, A.R., Bagnato, A., Montes de Oca, E.",
+    "title": "Metrics-driven DevSecOps",
+    "venue": "ICSOFT 2020, pp. 228–233",
+    "link": "http://www.scitepress.net/PublishedPapers/2020/98896/98896.pdf",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 33,
+    "year": 2020,
+    "authors": "Ram, P., Rodríguez, P., Oivo, M., Bagnato, A., Abherve, A., Choras, M., Kozik, R.",
+    "title": "An Empirical Investigation into Industrial Use of Software Metrics Programs",
+    "venue": "PROFES 2020, pp. 419–433",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-64148-1_26",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 34,
+    "year": 2020,
+    "authors": "Schranz, M., Sende, M., Bagnato, A., Eckel, A., et al.",
+    "title": "Modeling CPS Swarms: An Automotive Use Case",
+    "venue": "ACM SIGAda Ada Letters",
+    "link": "https://dl.acm.org/doi/10.1145/3431235.3431239",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 35,
+    "year": 2020,
+    "authors": "Barmpis, K., García-Domínguez, A., Bagnato, A., Abherve, A.",
+    "title": "Monitoring model analytics over large repositories with Hawk and MEASURE",
+    "venue": "(chapter / proceedings)",
+    "link": "https://hdl.handle.net/10316/95053",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 36,
+    "year": 2020,
+    "authors": "Casaleiro, R., Silva, P., Simoes, P., et al., Bagnato, A., et al., Schiavo, F.",
+    "title": "Protection and control of personal identifiable information: The PoSeID-on approach",
+    "venue": "Journal of Data Protection & Privacy",
+    "link": "https://hstalks.com/article/5410/protection-and-control-of-personal-identifiable-in/?business",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 37,
+    "year": 2019,
+    "authors": "Martínez-Fernández, S., Vollmer, A.M., Jedlitschka, A., Franch, X., López, L., Ram, P., Rodríguez, P., Aaramaa, S., Bagnato, A., Choras, M., Partanen, J.",
+    "title": "Continuously Assessing and Improving Software Quality With Software Analytics Tools: A Case Study",
+    "venue": "IEEE Access, vol. 7, pp. 68219–68239",
+    "link": "https://www.cs.upc.edu/~llopez/publications/19IEEEAccess.pdf",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 38,
+    "year": 2019,
+    "authors": "Sadovykh, A., Afzal, W., Truscan, D., Pierini, P., Brunelière, H., Bagnato, A., Gómez, A., Cabot, J., Avila-García, O.",
+    "title": "On a tool-supported model-based approach for building architectures and roadmaps: The MegaM@Rt2 project experience",
+    "venue": "Microprocessors and Microsystems, vol. 71",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0141933119300432",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 39,
+    "year": 2019,
+    "authors": "Sadovykh, A., Truscan, D., Pierini, P., Widforss, G., Ashraf, A., Brunelière, H., Smrz, P., Bagnato, A., Afzal, W., Espinosa Hortelano, A.",
+    "title": "On the Use of Hackathons to Enhance Collaboration in Large Collaborative Projects: A Preliminary Case Study of the MegaM@Rt2 EU Project",
+    "venue": "DATE 2019, pp. 498–503",
+    "link": "https://ieeexplore.ieee.org/document/8715247",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 40,
+    "year": 2019,
+    "authors": "Sadovykh, A., Bagnato, A., Berre, A.J., Walderhaug, S.",
+    "title": "ArchiMate as a Specification Language for Big Data Applications – DataBio Example",
+    "venue": "DEVOPS 2019, pp. 191–199",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-39306-9_14",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 41,
+    "year": 2019,
+    "authors": "Vollmer, A.M., Martínez-Fernández, S., Bagnato, A., Partanen, J., López, L., Rodríguez, P.",
+    "title": "Practical experiences and value of applying software analytics to manage quality",
+    "venue": "ESEM 2019, pp. 1–6",
+    "link": "https://arxiv.org/abs/1910.11007",
+    "linkLabel": "Preprint PDF (arXiv, same work)"
+  },
+  {
+    "id": 42,
+    "year": 2019,
+    "authors": "Bagnato, A., Silva, P., Alaqra, A.S., Ermis, O.",
+    "title": "Workshop on Privacy Challenges in Public and Private Organizations",
+    "venue": "Privacy and Identity Management 2019, pp. 82–89",
+    "link": "https://inria.hal.science/hal-03378984v1",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 43,
+    "year": 2019,
+    "authors": "Bagnato, A., Fucci, D.",
+    "title": "European Project Space Papers for the PROFES 2019 – Summary",
+    "venue": "PROFES 2019, pp. 573–576",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-35333-9_40",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 44,
+    "year": 2019,
+    "authors": "Boudeffa, A., Abherve, A., Bagnato, A., Thomas, C., Hamant, M., Montasser, A.",
+    "title": "Application of Computational Linguistics Techniques for Improving Software Quality",
+    "venue": "PROFES 2019, pp. 577–582",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-35333-9_41",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 45,
+    "year": 2019,
+    "authors": "Chaabouni, K., Bagnato, A., García-Domínguez, A.",
+    "title": "Monitoring ArchiMate Models for DataBio Project",
+    "venue": "PROFES 2019, pp. 583–589",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-35333-9_42",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 46,
+    "year": 2019,
+    "authors": "Bagnato, A., Beaufays, A., Brosse, E., Chaabouni, K., Ryssel, U., Schulze, M., Sadovykh, A.",
+    "title": "Showcasing Modelio and pure::variants Integration in REVaMP² Project",
+    "venue": "PROFES 2019, pp. 590–595",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-35333-9_43",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 47,
+    "year": 2019,
+    "authors": "Boudeffa, A., Abherve, A., Bagnato, A., Di Ruscio, D., Mateus, M., Almeida, B.",
+    "title": "Integrating and deploying heterogeneous components by means of a microservices architecture in the CROSSMINER project",
+    "venue": "STAF (Co-Located Events) 2019, pp. 67–72",
+    "link": "https://ceur-ws.org/Vol-2405/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 48,
+    "year": 2019,
+    "authors": "Chaabouni, K., Bagnato, A., Walderhaug, S., Berre, A.J., Södergård, C., Sadovykh, A.",
+    "title": "Enterprise Architecture modelling with ArchiMate",
+    "venue": "STAF (Co-Located Events) 2019, pp. 79–84",
+    "link": "https://ceur-ws.org/Vol-2405/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 49,
+    "year": 2019,
+    "authors": "Jdeed, M., Schranz, M., Bagnato, A., Suleri, S., Prato, G., Conzon, D., Sende, M., Brosse, E., Pastrone, C., Elmenreich, W.",
+    "title": "The CPSwarm Technology for Designing Swarms of Cyber-Physical Systems",
+    "venue": "STAF (Co-Located Events) 2019, pp. 85–90",
+    "link": "https://ceur-ws.org/Vol-2405/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 50,
+    "year": 2019,
+    "authors": "Sadovykh, A., Truscan, D., Afzal, W., Brunelière, H., Ashraf, A., Gómez, A., Espinosa Hortelano, A., Widforss, G., Pierini, P., Fourneret, E., Bagnato, A.",
+    "title": "MegaM@Rt2 Project: Mega-Modelling at Runtime – Intermediate Results and Research Challenges",
+    "venue": "TOOLS 2019, pp. 393–405",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-29852-4_33",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 51,
+    "year": 2019,
+    "authors": "Sadovykh, A., Ziadi, T., Bagnato, A., Berger, T., Steghöfer, J.-P., Robin, J., Mazo, R., Gallego, E.",
+    "title": "REVaMP² Project: Towards Round-Trip Engineering of Software Product Lines – Approach, Intermediate Results and Challenges",
+    "venue": "TOOLS 2019, pp. 406–417",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-030-29852-4_34",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 52,
+    "year": 2019,
+    "authors": "Bagnato, A., Brunelière, H., Burgueño, L., Eramo, R., Gómez, A. (eds.)",
+    "title": "STAF 2019 Co-Located Events Joint Proceedings: 1st Junior Researcher Community Event, 2nd International Workshop on Model-Driven Engineering for Design-Runtime Interaction in Complex Systems, and 1st Research Project Showcase Workshop, Eindhoven, The Netherlands, July 15–19, 2019",
+    "venue": "CEUR Workshop Proceedings, vol. 2405",
+    "link": "https://ceur-ws.org/Vol-2405/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 53,
+    "year": 2019,
+    "authors": "Vollmer, A.M., Martínez-Fernández, S., Bagnato, A., Partanen, J., López, L., Rodríguez, P.",
+    "title": "Practical experiences and value of applying software analytics to manage quality",
+    "venue": "CoRR abs/1910.11007",
+    "link": "https://arxiv.org/abs/1910.11007",
+    "linkLabel": "Preprint PDF (arXiv)"
+  },
+  {
+    "id": 54,
+    "year": 2018,
+    "authors": "Dadhich, P., Sadovykh, A., Bagnato, A., Kepka, M., Kaas, O., Charvát, K.",
+    "title": "Sensor-based Database with SensLog: A Case Study of SQL to NoSQL Migration",
+    "venue": "DATA 2018, pp. 239–244",
+    "link": "https://dl.acm.org/doi/10.5220/0006909202390244",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 55,
+    "year": 2018,
+    "authors": "Condori-Fernández, N., Bagnato, A., Kern, E.",
+    "title": "A focus group for operationalizing software sustainability with the MEASURE platform",
+    "venue": "MeGSuS@ESEM 2018, p. 7",
+    "link": "https://ceur-ws.org/Vol-2286/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 56,
+    "year": 2018,
+    "authors": "Bagnato, A., Rocheteau, J.",
+    "title": "Towards green metrics integration in the MEASURE platform",
+    "venue": "MeGSuS@ESEM 2018, p. 39",
+    "link": "https://ceur-ws.org/Vol-2286/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 57,
+    "year": 2018,
+    "authors": "Schranz, M., Bagnato, A., Brosse, E., Elmenreich, W.",
+    "title": "Modelling a CPS Swarm System: A Simple Case Study",
+    "venue": "MODELSWARD 2018, pp. 615–624",
+    "link": "https://dl.acm.org/doi/10.5220/0006731106150624",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 58,
+    "year": 2018,
+    "authors": "Al-Wadeai, O., García-Domínguez, A., Bagnato, A., Abherve, A., Barmpis, K.",
+    "title": "Integration of Hawk for Model Metrics in the MEASURE Platform",
+    "venue": "MODELSWARD 2018, pp. 719–730",
+    "link": "https://dl.acm.org/doi/10.5220/0006732207190730",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 59,
+    "year": 2018,
+    "authors": "Sadovykh, A., Bagnato, A., Truscan, D., Pierini, P., Brunelière, H., Gómez, A., Cabot, J., Avila-García, O., Afzal, W.",
+    "title": "A Tool-Supported Approach for Building the Architecture and Roadmap in MegaM@Rt2 Project",
+    "venue": "SEDA 2018, pp. 265–274",
+    "link": "https://doi.org/10.1007/978-3-030-14687-0_24",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 60,
+    "year": 2018,
+    "authors": "Condori-Fernández, N., Bagnato, A., Kern, E. (eds.)",
+    "title": "Proceedings of the 4th International Workshop on Measurement and Metrics for Green and Sustainable Software Systems co-located with ESEIW 2018, Oulu, Finland, October 9, 2018",
+    "venue": "CEUR Workshop Proceedings, vol. 2286",
+    "link": "https://ceur-ws.org/Vol-2286/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 61,
+    "year": 2018,
+    "authors": "Sadovykh, A., Ashraf, A., Bagnato, A., et al., Afzal, W.",
+    "title": "Model-Based System Engineering in Practice: Document Generation – MegaM@Rt2 Project Experience",
+    "venue": "(conference proceedings)",
+    "link": "https://dl.acm.org/doi/10.1145/3290621.3290633",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 62,
+    "year": 2018,
+    "authors": "Bagnato, A., Brosse, E., Beaufays, A.",
+    "title": "The CPSwarm Project – Swarm Modelling in Self-organization and Swarm Intelligence in Cyber Physical Systems",
+    "venue": "(conference proceedings)",
+    "link": "https://www.scitepress.org/Link.aspx?doi=10.5220/0008862200910099",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 63,
+    "year": 2018,
+    "authors": "Bagnato, A., Brosse, E., Beaufays, A., Vaumorin, E.",
+    "title": "System Modeling and Design Exploration of Applications for Heterogeneous and Parallel Platforms",
+    "venue": "(conference proceedings)",
+    "link": "https://www.scitepress.org/Link.aspx?doi=10.5220/0008862100700090",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 64,
+    "year": 2017,
+    "authors": "Bagnato, A., Bíró, R.K., Bonino, D., Pastrone, C., Elmenreich, W., Reiners, R., Schranz, M., Arnautovic, E.",
+    "title": "Designing Swarms of Cyber-Physical Systems: the H2020 CPSwarm Project (Invited Paper)",
+    "venue": "Conf. Computing Frontiers 2017, pp. 305–312",
+    "link": "https://dl.acm.org/doi/10.1145/3075564.3077628",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 65,
+    "year": 2017,
+    "authors": "Bagnato, A., Barmpis, K., Bessis, N., Cabrera-Diego, L.A., Di Rocco, J., Di Ruscio, D., Gergely, T., Hansen, S., Kolovos, D.S., Krief, P., Korkontzelos, I., Laurière, S., Manrique Lopez de la Fuente, J., Maló, P., Paige, R.F., Spinellis, D., Thomas, C., Vinju, J.J.",
+    "title": "Developer-Centric Knowledge Mining from Large Open-Source Software Repositories (CROSSMINER)",
+    "venue": "STAF Workshops 2017, pp. 375–384",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-319-74730-9_33",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 66,
+    "year": 2017,
+    "authors": "Sadovykh, A., Bagnato, A., Robin, J., et al., Martinez, J.",
+    "title": "REVAMP: Challenges and innovation roadmap for variability management in round-trip engineering of software-intensive systems",
+    "venue": "(article)",
+    "link": "https://hal.science/hal-01529649",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 67,
+    "year": 2017,
+    "authors": "Bagnato, A., Sadovykh, A., Dahab, S.A., et al., Mallouli, W.",
+    "title": "Modeling OMG SMM metrics using the Modelio modeling tool in the MEASURE project",
+    "venue": "(article)",
+    "link": "https://dumas.ccsd.cnrs.fr/TELECOM-SUDPARIS/hal-01534818v1",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 68,
+    "year": 2017,
+    "authors": "Bagnato, A., Brosse, E., Quadri, I., Sadovykh, A.",
+    "title": "The INTO-CPS cyber-physical system profile",
+    "venue": "Ada User Journal, 38, p. 227–230",
+    "link": "https://www.ada-europe.org/archive/auj/auj-38-4.pdf",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 69,
+    "year": 2017,
+    "authors": "Cancila, D., Laarouchi, E., Bagnato, A.",
+    "title": "Dependability of the Transport of the Future",
+    "venue": "Ada User Journal, 38(4), p. 236",
+    "link": "https://www.ada-europe.org/archive/auj/auj-38-4.pdf",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 70,
+    "year": 2016,
+    "authors": "Dahab, S.A., Maag, S., Bagnato, A., Almeida da Silva, M.A.",
+    "title": "A Learning based approach for Green Software Measurements",
+    "venue": "MeGSuS@ESEM 2016, pp. 13–22",
+    "link": "https://ceur-ws.org/Vol-1708/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 71,
+    "year": 2016,
+    "authors": "Bagnato, A., Almeida da Silva, M.A., Abherve, A., Rocheteau, J., Pihery, C.-L., Mabit, P.",
+    "title": "Measuring Green Software Engineering In the MEASURE ITEA 3 Project",
+    "venue": "MeGSuS@ESEM 2016, pp. 33–42",
+    "link": "https://ceur-ws.org/Vol-1708/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 72,
+    "year": 2016,
+    "authors": "García-Domínguez, A., Barmpis, K., Kolovos, D.S., Almeida da Silva, M.A., Abherve, A., Bagnato, A.",
+    "title": "Integration of a graph-based model indexer in commercial modelling tools",
+    "venue": "MoDELS 2016, pp. 340–350",
+    "link": "https://dl.acm.org/doi/10.1145/2976767.2976809",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 73,
+    "year": 2016,
+    "authors": "Condori-Fernández, N., Procaccianti, G., Calero, C., Bagnato, A. (eds.)",
+    "title": "Proceedings of the 3rd International Workshop on Measurement and Metrics for Green and Sustainable Software Systems, MeGSuS 2016, co-located with ESEM 2016, Ciudad Real, Spain, September 7, 2016",
+    "venue": "CEUR Workshop Proceedings, vol. 1708",
+    "link": "https://ceur-ws.org/Vol-1708/",
+    "linkLabel": "Workshop proceedings (CEUR-WS, PDF)"
+  },
+  {
+    "id": 74,
+    "year": 2016,
+    "authors": "Sadovykh, A., Bagnato, A., Quadri, I., et al., Hasanagic, M.",
+    "title": "SysML as a Common Integration Platform for Co-Simulations: Example of a Cyber Physical System Design Methodology in Green Heating Ventilation and Air Conditioning Systems",
+    "venue": "(conference proceedings)",
+    "link": "https://dl.acm.org/doi/10.1145/3022211.3022212",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 75,
+    "year": 2016,
+    "authors": "Larsen, P.G., Thule, C., Lausdahl, K.G., Bandur, V., Gamble, C., Brosse, E., Sadovykh, A., Bagnato, A., Couto, L.D.",
+    "title": "Integrated tool chain for model-based design of cyber-physical systems",
+    "venue": "The 14th Overture Workshop: Towards Analytical Tool Chains, technical report ECE-TR-28, Aarhus University, p. 63–79",
+    "link": "https://pure.au.dk/portal/en/publications/integrated-tool-chain-for-model-based-design-of-cyber-physical-sy-2/",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 76,
+    "year": 2016,
+    "authors": "Bagnato, A., Brosse, E., Quadri, I., Sadovykh, A.",
+    "title": "SysML for modeling co-simulation orchestration over FMI: the INTO-CPS approach",
+    "venue": "Ada User Journal, 37(4), p. 215–218",
+    "link": "https://www.ada-europe.org/archive/auj/auj-37-4.pdf",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 77,
+    "year": 2016,
+    "authors": "Mazzini, S., Cancila, D., Bagnato, A., Conmy, P.R., Rioux, L.",
+    "title": "3rd Workshop on Challenges and New Approaches for Dependable and Cyber-Physical System Engineering (De-CPS 2016) – Editorial",
+    "venue": "Ada User Journal, 37(4), p. 213",
+    "link": "https://www.ada-europe.org/archive/auj/auj-37-4.pdf",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 78,
+    "year": 2015,
+    "authors": "Almeida, B., Ananiadou, S., Bagnato, A., Berreteaga Barbero, A., Di Rocco, J., Di Ruscio, D., Kolovos, D.S., Korkontzelos, I., Hansen, S., Maló, P., Drivalos, N., Paige, R.F., Vinju, J.J.",
+    "title": "OSSMETER: Automated Measurement and Analysis of Open Source Software",
+    "venue": "STAF Projects Showcase 2015, pp. 36–43",
+    "link": "https://ir.cwi.nl/pub/24172",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 79,
+    "year": 2015,
+    "authors": "Quadri, I., Bagnato, A., Brosse, E., Sadovykh, A.",
+    "title": "Modeling methodologies for cyber-physical systems: Research field study on inherent and future challenges",
+    "venue": "Ada User Journal, 36(4), p. 246–253",
+    "link": "https://www.ada-europe.org/archive/auj/auj-36-4.pdf",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 80,
+    "year": 2015,
+    "authors": "Bagnato, A., Brosse, E., Quadri, I., Sadovykh, A.",
+    "title": "INTO-CPS: An integrated « tool chain » for comprehensive model-based design of cyber-physical systems",
+    "venue": "Revue Génie Logiciel, p. 31–35",
+    "link": "https://www.semanticscholar.org/search?q=INTO-CPS%20An%20integrated%20tool%20chain%20for%20comprehensive%20model-based%20design%20of%20cyberphysical%20systems&sort=relevance",
+    "linkLabel": "Search on Semantic Scholar"
+  },
+  {
+    "id": 81,
+    "year": 2014,
+    "authors": "Almeida da Silva, M.A., Sadovykh, A., Bagnato, A., Brosse, E.",
+    "title": "Taming the Complexity of Big Data Multi-Cloud Applications with Models",
+    "venue": "CSDM (Posters) 2014, pp. 1–12",
+    "link": "https://ceur-ws.org/Vol-1234/paper-01.pdf",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 82,
+    "year": 2014,
+    "authors": "Bagnato, A., Brosse, E., Sadovykh, A., Almeida da Silva, M.A.",
+    "title": "Scalability in System Design and Management, the MONDO Approach in an Industrial Project",
+    "venue": "CSDM (Posters) 2014, pp. 13–24",
+    "link": "https://ceur-ws.org/Vol-1234/CSDM2014PosterWorkshop2014-complete.pdf",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 83,
+    "year": 2014,
+    "authors": "Vos, T.E.J., Tonella, P., Prasetya, W., Kruse, P.M., Bagnato, A., Harman, M., Shehory, O.",
+    "title": "FITTEST: A new continuous and automated testing process for future Internet applications",
+    "venue": "CSMR-WCRE 2014, pp. 407–410",
+    "link": "https://ieeexplore.ieee.org/document/6747206",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 84,
+    "year": 2014,
+    "authors": "Bauersfeld, S., Vos, T.E.J., Condori-Fernández, N., Bagnato, A., Brosse, E.",
+    "title": "Evaluating the TESTAR tool in an industrial case study",
+    "venue": "ESEM 2014, pp. 4:1–4:9",
+    "link": "https://dl.acm.org/doi/10.1145/2652524.2652588",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 85,
+    "year": 2014,
+    "authors": "Ali, S., Yue, T., Hoffmann, A., Wendland, M.-F., Bagnato, A., Brosse, E., Schacher, M., Dai, Z.R.",
+    "title": "How Does the UML Testing Profile Support Risk-Based Testing",
+    "venue": "ISSRE Workshops 2014, pp. 311–316",
+    "link": "https://ieeexplore.ieee.org/document/6983859",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 86,
+    "year": 2014,
+    "authors": "Bagnato, A., Brosse, E., Sadovykh, A., Maló, P., Trujillo, S., Mendialdua, X., De Carlos, X.",
+    "title": "Flexible and Scalable Modelling in the MONDO Project: Industrial Case Studies",
+    "venue": "XM@MoDELS 2014, pp. 42–51",
+    "link": "https://ceur-ws.org/Vol-1239/xm14_submission_5.pdf",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 87,
+    "year": 2014,
+    "authors": "Condori-Fernández, N., Kruse, P.M., Vos, T.E.J., Brosse, E., Bagnato, A.",
+    "title": "Combinatorial Testing in an Industrial Environment – Analyzing the Applicability of a Tool",
+    "venue": "QUATIC 2014, pp. 210–215",
+    "link": "https://ieeexplore.ieee.org/document/6984120",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 88,
+    "year": 2014,
+    "authors": "Quadri, I.R., Bagnato, A., Sadovykh, A.",
+    "title": "MADES EU FP7 project: Model-driven methodology for real time embedded systems",
+    "venue": "Studies in Computational Intelligence (chapter)",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-642-40888-5_3",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 89,
+    "year": 2014,
+    "authors": "Bagnato, A., Indrusiak, L.S., Quadri, I.R., et al.",
+    "title": "Handbook of Research on Embedded Systems Design",
+    "venue": "(edited volume, IGI Global)",
+    "link": "https://www.igi-global.com/book/handbook-research-embedded-systems-design/102212",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 90,
+    "year": 2014,
+    "authors": "Condori-Fernández, N., Vos, T.E.J., Kruse, P.M., et al., Bagnato, A.",
+    "title": "Analyzing the applicability of a combinatorial testing tool in an industrial environment",
+    "venue": "Technical report",
+    "link": "https://investigacion.usc.gal/documentos/61a1f257bd93e62bb6016b9d?lang=en",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 91,
+    "year": 2014,
+    "authors": "Bagnato, A., Indrusiak, L.S., Quadri, I.R., et al., Kreku, J.",
+    "title": "Fostering Analysis from Industrial Embedded Systems Modeling",
+    "venue": "(chapter)",
+    "link": "https://www.igi-global.com/chapter/fostering-analysis-from-industrial-embedded-systems-modeling/116113",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 92,
+    "year": 2014,
+    "authors": "Bauersfeld, S., Condori-Fernandez, N., Vos, T., Brosse, E., Bagnato, A.",
+    "title": "Evaluating Rogue User Testing: an Industrial Case Study at Softeam",
+    "venue": "Technical report, Utrecht University",
+    "link": "https://research.vu.nl/en/publications/evaluating-rogue-user-an-industrial-case-study-at-softeam/",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 93,
+    "year": 2013,
+    "authors": "Bagnato, A., Sadovykh, A., Brosse, E., Vos, T.E.J.",
+    "title": "The OMG UML Testing Profile in Use – An Industrial Case Study for the Future Internet Testing",
+    "venue": "CSMR 2013, pp. 457–460",
+    "link": "https://ieeexplore.ieee.org/document/6498510",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 94,
+    "year": 2013,
+    "authors": "Kruse, P.M., Condori-Fernández, N., Vos, T.E.J., Bagnato, A., Brosse, E.",
+    "title": "Combinatorial Testing Tool Learnability in an Industrial Environment",
+    "venue": "ESEM 2013, pp. 304–312",
+    "link": "https://research.ou.nl/en/publications/combinatorial-testing-tool-learnability-in-an-industrial-environm/",
+    "linkLabel": "PDF (open access)"
+  },
+  {
+    "id": 95,
+    "year": 2013,
+    "authors": "Vos, T.E.J., Tonella, P., Prasetya, I.S.W.B., Kruse, P.M., Shehory, O., Bagnato, A., Harman, M.",
+    "title": "The FITTEST Tool Suite for Testing Future Internet Applications",
+    "venue": "FITTEST@ICTSS 2013, pp. 1–31",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-319-07785-7_1",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 96,
+    "year": 2013,
+    "authors": "Bagnato, A., Raiteri, F., Jung, C., Elberzhager, F.",
+    "title": "Creating and Applying Security Goal Indicator Trees in an Industrial Environment",
+    "venue": "(article, extended version of the ARES 2010 paper)",
+    "link": "https://www.igi-global.com/chapter/creating-applying-security-goal-indicator/65773",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 97,
+    "year": 2013,
+    "authors": "Bagnato, A.",
+    "title": "Modeling and verification in model-based software engineering: application to embedded systems",
+    "venue": "PhD thesis, Institut National des Télécommunications (Télécom SudParis) / Université d'Evry Val d'Essonne",
+    "link": "https://www.semanticscholar.org/search?q=Modeling%20and%20verification%20in%20model-based%20software%20engineering%20application%20to%20embedded%20systems%20Bagnato%20thesis&sort=relevance",
+    "linkLabel": "Search on Semantic Scholar"
+  },
+  {
+    "id": 98,
+    "year": 2012,
+    "authors": "Bagnato, A., Kordy, B., Meland, P.H., Schweitzer, P.",
+    "title": "Attribute Decoration of Attack-Defense Trees",
+    "venue": "International Journal of Secure Software Engineering, 3(2), 1–35",
+    "link": "https://orbilu.uni.lu/handle/10993/11468",
+    "linkLabel": "Institutional repository entry"
+  },
+  {
+    "id": 99,
+    "year": 2012,
+    "authors": "Pagano, D., Juan, M.A., Bagnato, A., Roehm, T., Bruegge, B., Maalej, W.",
+    "title": "FastFix: Monitoring control for remote software maintenance",
+    "venue": "ICSE 2012, pp. 1437–1438",
+    "link": "https://ieeexplore.ieee.org/document/6227076",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 100,
+    "year": 2012,
+    "authors": "Quadri, I.R., Brosse, E., Gray, I., Drivalos Matragkas, N., Indrusiak, L.S., Rossi, M., Bagnato, A., Sadovykh, A.",
+    "title": "MADES FP7 EU project: Effective high level SysML/MARTE methodology for real-time and embedded avionics systems",
+    "venue": "ReCoSoC 2012, pp. 1–8",
+    "link": "https://ieeexplore.ieee.org/document/6322882",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 101,
+    "year": 2012,
+    "authors": "Bagnato, A., Raiteri, F., Jung, C., Elberzhager, F.",
+    "title": "Creating and applying security goal indicator trees in an industrial environment",
+    "venue": "(2012 original; republished in 2013–2014 under very similar titles, see below)",
+    "link": "https://www.igi-global.com/chapter/creating-applying-security-goal-indicator/65773",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 102,
+    "year": 2011,
+    "authors": "Bagnato, A., Esparcia-Alcázar, A., Vos, T.E.J., Marín, B., Oliver Murillo, J., Folgado, S.I., Carlos Alberola, A.",
+    "title": "Testing and Remote Maintenance of Real Future Internet Scenarios, Towards FITTEST and FastFix Advanced Software Engineering",
+    "venue": "FedCSIS 2011, pp. 925–932",
+    "link": "https://ieeexplore.ieee.org/document/6078312",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 103,
+    "year": 2011,
+    "authors": "Gaudin, B., Bagnato, A.",
+    "title": "Software Maintenance through Supervisory Control",
+    "venue": "SEW 2011, pp. 97–105",
+    "link": "https://dl.acm.org/doi/10.1109/SEW.2011.20",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 104,
+    "year": 2010,
+    "authors": "Jung, C., Elberzhager, F., Bagnato, A., Raiteri, F.",
+    "title": "Practical Experience Gained from Modeling Security Goals: Using SGITs in an Industrial Project",
+    "venue": "ARES 2010, pp. 531–536",
+    "link": "https://ieeexplore.ieee.org/document/5438044",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 105,
+    "year": 2010,
+    "authors": "Bagnato, A., Raiteri, F., Mallouli, W., Wehbi, B.",
+    "title": "Practical Experience Gained from Passive Testing of Web Based Systems",
+    "venue": "ICST Workshops 2010, pp. 394–402",
+    "link": "https://ieeexplore.ieee.org/document/5463676",
+    "linkLabel": "DOI"
+  },
+  {
+    "id": 106,
+    "year": 2009,
+    "authors": "Rios, E., Meland, P.H., Ardi, S., Bagnato, A., Jensen, J., Mallouli, W., Raiteri, F., Sanchez, T., Tøndel, I.A., Wehbi, B.",
+    "title": "A qualitative evaluation of model-based security activities for software development",
+    "venue": "Proceedings of the European Workshop on Security in Model Driven Architecture, p. 14–21",
+    "link": "https://www.semanticscholar.org/search?q=A%20qualitative%20evaluation%20of%20model-based%20security%20activities%20for%20software%20development&sort=relevance",
+    "linkLabel": "Search on Semantic Scholar"
+  },
+  {
+    "id": 107,
+    "year": 2009,
+    "authors": "Bagnato, A.",
+    "title": "Security in model-driven architecture",
+    "venue": "Proceedings of the European Workshop on Security in Model Driven Architecture",
+    "link": "https://www.semanticscholar.org/search?q=Security%20in%20model-driven%20architecture%20Bagnato&sort=relevance",
+    "linkLabel": "Search on Semantic Scholar"
+  },
+  {
+    "id": 108,
+    "year": 2008,
+    "authors": "Bagnato, A., Maalej, W.",
+    "title": "From Research to Practice: How TXT e-solutions Plans to Deploy Innovations in Sharing Development Knowledge",
+    "venue": "Software Engineering (Workshops) 2008, pp. 43–50",
+    "link": "https://www.semanticscholar.org/search?q=From%20Research%20to%20Practice%3A%20How%20TXT%20e-solutions%20Plans%20to%20Deploy%20Innovations%20in%20Sharing%20Development%20Knowledge&sort=relevance",
+    "linkLabel": "Search on Semantic Scholar"
+  },
+  {
+    "id": 109,
+    "year": 2008,
+    "authors": "Bagnato, A., Baresi, L., Garijo, F., Gorronogoitia, J., Miraz, M., Pavón Mestras, J., Pezzuto, G., Quijada, L., Sadovykh, A., Serina, M.",
+    "title": "MOMOCS: MDE for the modernization of complex systems",
+    "venue": "Génie Logiciel, n° 85, p. 49–52",
+    "link": "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=20561090",
+    "linkLabel": "Institutional repository entry"
+  }
+]
