@@ -78,6 +78,7 @@ stateDiagram-v2
 ---
 
 ### ✅ The "Wonderful" State Machine (Clean & Safe)
+
 ```mermaid
 stateDiagram-v2
     [*] --> LoggedOut
