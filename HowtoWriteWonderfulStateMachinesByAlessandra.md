@@ -176,3 +176,44 @@ flowchart TD
     Confirmed --> End
     Cancelled --> End
 ```
+
+# How to Write Wonderful State Machines by Alessandra
+
+```mermaid
+stateDiagram-v2
+    direction TD
+    state "Checking that every journey has one clear starting line" as ClearStart {
+        OneBlackCircle : Checking to have only one solid black circle
+        [*] --> OneBlackCircle
+        OneBlackCircle --> [*]
+    }
+    state "Checking that every decision has a backup plan" as BackupPlan {
+        SilentDeadlocks : Checking potential silent deadlocks
+        [*] --> SilentDeadlocks
+        SilentDeadlocks --> [*]
+    }
+    state "Checking not to exit a room just to walk back in" as NoExitLoop {
+        InternalTransitions : Checking Internal Transition Usage
+        [*] --> InternalTransitions
+        InternalTransitions --> [*]
+    }
+    state "Check that parallel paths are balanced" as BalancedParallel {
+        ForkJoinSymmetry : Checking symmetry between Forks and Joins
+        [*] --> ForkJoinSymmetry
+        ForkJoinSymmetry --> [*]
+    }
+    state "Check if your diagram got too crowded to group things up" as GroupCrowded {
+        AddComposite : Checking if a Composite State is to be added
+        [*] --> AddComposite
+        AddComposite --> [*]
+    }
+    [*] --> ClearStart
+    ClearStart --> BackupPlan
+    ClearStart --> NoExitLoop
+    ClearStart --> BalancedParallel
+    ClearStart --> GroupCrowded
+    BackupPlan --> [*]
+    NoExitLoop --> [*]
+    BalancedParallel --> [*]
+    GroupCrowded --> [*]
+```
