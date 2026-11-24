@@ -112,3 +112,39 @@ Before you call your State Machine "done," ask yourself these 5 questions:
 - [ ] **No trapped choices:** Does every `Choice` diamond have an `[else]` exit?
 - [ ] **Clean start & finish:** Does my `Initial` circle have zero incoming arrows, and my `Final` bullseye have zero outgoing arrows?
 - [ ] **The 10-second test:** If I show this to a teammate, can they understand what it does in 10 seconds?
+
+# CI/CD Deployment Pipeline
+
+Demonstrates composite states, parallel forks/joins, and orthogonal health monitoring.
+
+```mermaid
+stateDiagram-v2
+    direction TD
+    state StartParallelChecks <<fork>>
+    state ChecksComplete <<join>>
+    Idle : Waiting for Commit
+    Deploying : Deploying to Production
+    RolledBack : Deployment Rolled Back
+    state "Active Production Rollout" as ActiveRollout {
+        Canary : Canary (10% Traffic)
+        FullTraffic : Full Traffic (100%)
+        [*] --> Canary
+        Canary --> FullTraffic : metrics_healthy
+        FullTraffic --> [*]
+        --
+        Monitoring : Watching Error Rates
+        AlertTriggered : Threshold Breached
+        [*] --> Monitoring
+        Monitoring --> AlertTriggered : error_spike
+    }
+    [*] --> Idle
+    Idle --> StartParallelChecks : git_push
+    StartParallelChecks --> UnitTests
+    StartParallelChecks --> SecurityScan
+    UnitTests --> ChecksComplete : tests_passed
+    SecurityScan --> ChecksComplete : scan_clean
+    ChecksComplete --> ActiveRollout : promote
+    ActiveRollout --> Idle : rollout_complete
+    ActiveRollout --> RolledBack : auto_rollback
+    RolledBack --> Idle : incident_resolved
+```
