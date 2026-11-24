@@ -58,7 +58,6 @@ stateDiagram-v2
     Idle --> Processing : start
     Processing --> [*] : finish
 ```
-
 **Why this fails in real life:**
 1. **Two starting points:** There are two `Initial` (`[*]`) circles! The system doesn't know where to begin.
 2. **A gated start:** The arrow leaving the top `Initial` circle has a trigger (`userClicksLogin`). Initial transitions must happen automatically.
