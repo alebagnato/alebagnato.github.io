@@ -52,6 +52,16 @@ If you have more than 7 or 8 boxes on screen, your diagram is getting hard to re
 Let's put these rules to work with a real example: **a user trying to log in with a password.**
 
 ### ❌ The "Bad" State Machine (4 Classic Mistakes)
+
+```mermaid
+stateDiagram-v2
+    [*] --> CheckPassword : userClicksLogin
+    state check <<choice>>
+    CheckPassword --> check
+    check --> LoggedIn : [passwordValid]
+    LoggedIn --> [*]
+    [*] --> LoggedOut
+```
 ```mermaid
 stateDiagram-v2
     [*] --> Idle
