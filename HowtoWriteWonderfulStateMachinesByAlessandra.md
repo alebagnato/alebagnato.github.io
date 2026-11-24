@@ -181,8 +181,7 @@ flowchart TD
 
 ```mermaid
 stateDiagram-v2
-    direction TD
-    state "Checking that every journey has one clear starting line" as ClearStart {
+       state "Checking that every journey has one clear starting line" as ClearStart {
         OneBlackCircle : Checking to have only one solid black circle
         [*] --> OneBlackCircle
         OneBlackCircle --> [*]
