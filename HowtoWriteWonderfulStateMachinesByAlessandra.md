@@ -78,7 +78,7 @@ stateDiagram-v2
     LoggedIn --> LoggedOut : clickLogout
     LoggedIn --> [*] : closeApp
 ```
-**Why this works like a charm:**
+**Why this works:**
 1. **One clean start:** The system immediately starts in `LoggedOut` with no conditions blocking it.
 2. **Clear state names:** `LoggedOut`, `Verifying`, and `LoggedIn` describe *statuses*, not actions.
 3. **Bulletproof decision:** The `Choice` diamond has an `[else]` path that shows an error message and safely returns the user to `LoggedOut`.
