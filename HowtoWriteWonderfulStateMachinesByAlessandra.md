@@ -148,3 +148,58 @@ stateDiagram-v2
     ActiveRollout --> RolledBack : auto_rollback
     RolledBack --> Idle : incident_resolved
 ```
+
+# Order Payment
+
+Order lifecycle with stock checks, retries, and auto-generated Python runner.
+
+```mermaid
+stateDiagram-v2
+    direction TD
+    Draft : Draft Order
+    Validating : Validating Cart & Stock
+    AwaitingPayment : Awaiting Payment
+    Confirmed : Order Confirmed
+    Failed : Payment Failed
+    Cancelled : Order Cancelled
+    [*] --> Draft
+    Draft --> Validating : submit_order
+    Validating --> AwaitingPayment : valid [in_stock]
+    Validating --> Draft : invalid
+    AwaitingPayment --> Confirmed : payment_succeeded
+    AwaitingPayment --> Failed : payment_declined
+    Failed --> AwaitingPayment : retry [can_retry]
+    Failed --> Cancelled : abort
+    Confirmed --> [*]
+    Cancelled --> [*]
+# Order & Payment State Machine
+
+A resilient workflow with validation guards, timeout handling, and retry limits.
+
+```mermaid
+stateDiagram-v2
+    direction TD
+    Draft : Draft Order
+    Validating : Validating Cart & Stock
+    AwaitingPayment : Awaiting Payment
+    Processing : Processing Charge
+    Confirmed : Order Confirmed
+    Failed : Payment Failed
+    Cancelled : Order Cancelled
+
+    [*] --> Draft
+    Draft --> Validating : submit_order
+    Validating --> AwaitingPayment : valid [in_stock]
+    Validating --> Draft : invalid [out_of_stock]
+    AwaitingPayment --> Processing : pay
+    AwaitingPayment --> Cancelled : timeout_15m
+    Processing --> Confirmed : payment_succeeded
+    Processing --> Failed : payment_declined
+    Failed --> AwaitingPayment : retry [attempts < 3]
+    Failed --> Cancelled : abort [attempts >= 3]
+    Confirmed --> [*]
+    Cancelled --> [*]
+
+    note right of AwaitingPayment : Auto-cancels after 15 minutes of inactivity
+    note right of Failed : Max 3 retry attempts allowed before cancellation
+```
