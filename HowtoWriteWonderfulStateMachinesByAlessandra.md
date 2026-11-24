@@ -53,7 +53,7 @@ Let's put these rules to work with a real example: **a user trying to log in wit
 
 ### ❌ The "Bad" State Machine (4 Classic Mistakes)
 ```mermaid
-stateDiagram-v2
+stateDiagram-v1
     [*] --> CheckPassword : userClicksLogin
     state check <<choice>>
     CheckPassword --> check
