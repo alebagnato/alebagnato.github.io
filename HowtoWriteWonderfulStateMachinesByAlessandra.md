@@ -54,13 +54,11 @@ Let's put these rules to work with a real example: **a user trying to log in wit
 ### ❌ The "Bad" State Machine (4 Classic Mistakes)
 ```mermaid
 stateDiagram-v1
-    [*] --> CheckPassword : userClicksLogin
-    state check <<choice>>
-    CheckPassword --> check
-    check --> LoggedIn : [passwordValid]
-    LoggedIn --> [*]
-    [*] --> LoggedOut
+    [*] --> Idle
+    Idle --> Processing : start
+    Processing --> [*] : finish
 ```
+
 **Why this fails in real life:**
 1. **Two starting points:** There are two `Initial` (`[*]`) circles! The system doesn't know where to begin.
 2. **A gated start:** The arrow leaving the top `Initial` circle has a trigger (`userClicksLogin`). Initial transitions must happen automatically.
