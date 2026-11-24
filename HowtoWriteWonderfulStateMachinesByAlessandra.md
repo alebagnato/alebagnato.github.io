@@ -68,14 +68,7 @@ stateDiagram-v2
     Idle --> Processing : start
     Processing --> [*] : finish
 ```
-stateDiagram-v2
-    [*] --> CheckPassword : userClicksLogin
-    state check <<choice>>
-    CheckPassword --> check
-    check --> LoggedIn : [passwordValid]
-    LoggedIn --> [*]
-    [*] --> LoggedOut
-
+ 
 **Why this fails in real life:**
 1. **Two starting points:** There are two `Initial` (`[*]`) circles! The system doesn't know where to begin.
 2. **A gated start:** The arrow leaving the top `Initial` circle has a trigger (`userClicksLogin`). Initial transitions must happen automatically.
